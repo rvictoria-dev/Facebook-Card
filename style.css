@@ -1,0 +1,114 @@
+body {
+  background-color: #18191a;
+  font-family: 'Nunito', 'Seogoe UI', Arial, Helvetica, sans-serif;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.pymk-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 4px;
+}
+
+.pymk-title {
+  color: rgb(228, 230, 235);
+  font-size: 19px;
+  font-weight: 700;
+  letter-spacing: -0.2px;
+  margin-left: 24px;
+}
+
+.pymk-see-all {
+  color: rgb(69, 153, 255);
+  font-size: 15px;
+  font-weight: 400;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.pymk-see-all:hover {
+  color: rgb(106, 176, 255);
+  text-decoration: underline;
+}
+
+.cards-container {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  padding: 0 16px;
+}
+
+.card {
+  display: grid;
+  width: 200px;
+  background-color: #242526;
+  border-radius: 14px;
+  overflow: hidden;
+  border: 1px solid #3a3b3c;
+}
+
+.profile-picture {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+.card-content {
+  padding: 12px;
+}
+
+.name {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.mutual {
+  color: #b0b3b8;
+  font-size: 15px;
+  margin-bottom: 14px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.mutual-friend-picture {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.add-friend-button {
+  font-weight: 700;
+  background-color: #263951;
+  color: #4599ff;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.remove-button {
+  font-weight: 700;
+  background-color: #3a3b3c;
+  color: #e4e6eb;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn-actions {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
