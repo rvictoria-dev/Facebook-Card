@@ -6,14 +6,6 @@ A front-end practice replicating the "People You May Know" component from Facebo
 
 ---
 
-### 🛠️ Built With
-
-- **HTML5** — semantic structure
-- **CSS3** — styling, layout, and responsiveness
-- No frameworks, no libraries — 100% vanilla
-
----
-
 ### 💡 What I Learned
 
 This project was a hands-on way to practice and solidify core front-end concepts:
@@ -25,6 +17,15 @@ This project was a hands-on way to practice and solidify core front-end concepts
 - **Border-radius & box-shadow** — replicating real UI card styles
 - **Button styling** — matching the exact look of Facebook's action buttons
 - **Color matching** — identifying and replicating exact HEX/RGB color values from a real interface
+
+---
+
+
+### 🛠️ Built With
+
+- **HTML5** — semantic structure
+- **CSS3** — styling, layout, and responsiveness
+- No frameworks, no libraries — 100% vanilla
 
 ---
 
