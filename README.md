@@ -25,7 +25,6 @@ This project was a hands-on way to practice and solidify core front-end concepts
 
 - **HTML5** — semantic structure
 - **CSS3** — styling, layout, and responsiveness
-- No frameworks, no libraries — 100% vanilla
 
 ---
 
