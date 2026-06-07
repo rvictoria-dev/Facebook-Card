@@ -2,13 +2,14 @@
 
 ### ✨ About
 
-A front-end practice replicating the "People You May Know" component from Facebook's dark mode interface, built with pure HTML and CSS. A horizontally aligned card grid displaying user suggestions with profile photos, mutual friends, and action buttons — just like Facebook.
+A front-end practice project inspired by Facebook’s “People You May Know” section. Built with HTML and CSS, it recreates the user suggestion cards while focusing on layout, spacing, and interface design.
 
 ---
 
 ### 💡 What I Learned
 
 This project was a hands-on way to practice and solidify core front-end concepts:
+
 - **Flexbox** — aligning cards side by side and stacking buttons vertically inside each card
 - **CSS Grid** — understanding when to use grid vs flex for layout
 - **Proper div nesting** — correctly opening and closing HTML elements to avoid broken layouts
