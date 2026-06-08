@@ -6,6 +6,25 @@ A front-end practice project inspired by Facebook’s “People You May Know” 
 
 ---
 
+### 📁 Project structure
+
+```
+facebook-card/
+├── assets/
+├── index.html
+├── style.css
+└── README.md
+```
+
+---
+
+### 🛠️ Built With
+
+- **HTML5** — semantic structure
+- **CSS3** — styling, layout, and responsiveness
+
+---
+
 ### 💡 What I Learned
 
 This project was a hands-on way to practice and solidify core front-end concepts:
@@ -18,14 +37,6 @@ This project was a hands-on way to practice and solidify core front-end concepts
 - **Border-radius & box-shadow** — replicating real UI card styles
 - **Button styling** — matching the exact look of Facebook's action buttons
 - **Color matching** — identifying and replicating exact HEX/RGB color values from a real interface
-
----
-
-
-### 🛠️ Built With
-
-- **HTML5** — semantic structure
-- **CSS3** — styling, layout, and responsiveness
 
 ---
 
